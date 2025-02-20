@@ -11,7 +11,23 @@
     background-color: #ffffffd9 !important;
 }
 
-
+/* whatsapp button */
+.whatsappButton {
+    position: fixed;
+    left: 45px;
+    bottom: 20px;
+    z-index: 99;
+    width: 60px;
+    height: 60px;
+    background-color: #04f85d;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 24px;
+    text-decoration: none;
+}
 
 a {
     color: #1000ff;
